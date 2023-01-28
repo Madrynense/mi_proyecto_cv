@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Soy muy buena resolviendo acertijos";
+    document.getElementById("pasatiempo").innerHTML = "Soy muy buena resolviendo acertijos";
   }
   
 
@@ -22,3 +22,11 @@ function myFunction() {
  document.getElementById("ocultar_pasatiempo").addEventListener("click", function() {
   document.getElementById("demo").style.display = "none";
  });
+
+ function mostrar(){
+  document.getElementById('img_salsipuedes').style.display = 'block';
+  };
+
+function ocultar(){
+  document.getElementById('img_salsipuedes').style.display = 'none';
+  };
