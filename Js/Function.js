@@ -20,7 +20,7 @@ function myFunction() {
  });
 
  document.getElementById("ocultar_pasatiempo").addEventListener("click", function() {
-  document.getElementById("demo").style.display = "none";
+  document.getElementById("pasatiempo").style.display = "none";
  });
 
  function mostrar(){
