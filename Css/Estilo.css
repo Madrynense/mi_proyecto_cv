@@ -1,16 +1,22 @@
 body {
     background-color: #efef83;
+    margin: 20px;
+    padding: 10px;
 }
 
 h1 {
     text-align: center;
+    color:#2C79D5;
+    font-family: Solitreo;
    
 }
 
 #img_perfil {
     display: flex;
     justify-content: center;
-    }
+    margin: 10px auto;
+    
+}
 
 #perfil {
     text-align: center;
@@ -19,8 +25,10 @@ h1 {
     border-style: solid;
    
 }
-h1, h2, h3{
+h2, h3{
     font-family: Solitreo;
+    color: #3185EA;
+    text-decoration: underline;
 }
 li {
     font-family: Roboto;
@@ -28,10 +36,6 @@ li {
 
 #pie {
     text-align: center;
-}
-
-#demo {
-    font-weight: bold;
 }
 
 #img_salsipuedes{
