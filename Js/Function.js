@@ -12,7 +12,7 @@ function myFunction() {
  });
 
  document.getElementById("cambiar_color3").addEventListener("click", function () {
-  document.body.style.backgroundColor = '#FAD1C4';
+  document.body.style.backgroundColor = '#CCBACC';
  });
 
  document.getElementById("cambiar_color4").addEventListener("click", function () {
